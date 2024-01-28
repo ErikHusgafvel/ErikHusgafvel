@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-#### You just landed on the best GitHub profile ever - warmly welcome!
+🔥 You just landed on the best GitHub profile ever - warmly welcome! 🔥
 
-#### I've been lately working on learning Full Stack Development skills and that's what this profile and its repositories are all about. My learning of FSD is tightly tied to the course [Full Stack Open](https://fullstackopen.com/en/about) offered by the University of Helsinki. Most of the exercises are under [this](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development) repository, but some of the exercises are in separate repositories due to course practicalities. Don't worry, I will open up everything right here!
+I've been lately working on learning Full Stack Development skills and that's what this profile and its repositories are all about
+
+My learning of FSD is tightly tied to the course [Full Stack Open](https://fullstackopen.com/en/about) offered by the University of Helsinki. Most of the exercises are under [this](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development) repository, but some of the exercises are in separate repositories due to course practicalities
+
+Don't worry, I will explain everything right here! 🚀
 
 <!--
 **ErikHusgafvel/ErikHusgafvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
