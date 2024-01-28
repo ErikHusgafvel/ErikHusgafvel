@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-You just landed on Erik's own GitHub profile - warmly welcome!
+## You just landed on Erik's own GitHub profile - warmly welcome!
+
+## I've been lately working on learning Full Stack Development skills and that's what this profile and its repositories are all about. My learning of FSD is tightly tied to the course Full Stack Open [insert a link https://fullstackopen.com/en/about] offered by the University of Helsinki. Most of the exercises are under the repository HY-MOOC-Full-stack-development [https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development], but some of the exercises are in separate repositories due to course practicalities. Don't worry, I will open up everything right here!
 
 <!--
 **ErikHusgafvel/ErikHusgafvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
