@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You just landed on Erik's own GitHub profile - warmly welcome!
+
 <!--
 **ErikHusgafvel/ErikHusgafvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
