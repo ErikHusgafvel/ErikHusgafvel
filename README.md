@@ -12,6 +12,8 @@ My learning of FSD is tightly tied to the course [Full Stack Open](https://fulls
 
 3) [Redux Anecdotes](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa6/redux-anecdotes). Simple front-end service for creating, updating and displaying anecdotes. The focus is on the front-end storage, which is built with Redux reducers instead of React's states. Specifically, the app uses Provider (react-redux store), configureStore (@reduxjs/toolkit) and createSlice (@reduxjs/toolkit)
 
+4) [Blogapp](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa7/blogapp)
+
 <!--
 **ErikHusgafvel/ErikHusgafvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
