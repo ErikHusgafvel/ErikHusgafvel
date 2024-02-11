@@ -6,7 +6,9 @@ I've been lately working on learning Full Stack Development skills and that's wh
 
 My learning of FSD is tightly tied to the course [Full Stack Open](https://fullstackopen.com/en/about) offered by the University of Helsinki. During the course, I've had hands-on experience of building modern single-page apps using React, Node.js, GraphQL, Redux, MongoDB, PostgreSQL and TypeScript. To make it as easy as possible to find the relevant projects from the repositories, I will explain everything right here 🚀
 
-1) [Blog-app backend](https://github.com/ErikHusgafvel/osa4_blogilista) with MongoDB, Express, jsonwebtoken, bcrypt, lodash, express-async-errors. During development, I've acquainted myself with nodemon, jest, supertest
+1) [Blog-app backend](https://github.com/ErikHusgafvel/osa4_blogilista). With Blog-app backend, client can create user profile(s), ask all user profiles, login to a profile, create blog posts, delete posts, increase likes for a post, ask information about all and/or a specific post. This app uses client-side session management and some actions are restricted to a logged profile. Utilized technologies: MongoDB, Express, jsonwebtoken, bcrypt, lodash, express-async-errors, cors. During development, I've also utilized eslint, nodemon, jest, supertest
+
+2) [Blog-app frontend]([https://github.com/ErikHusgafvel/osa4_blogilista](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa5/bloglist-frontend)). The Blog-app frontend displays blogs in the client-side, handles login and logout actions, let's a user create new blogs, give a like for a blog and remove own blogs. Successful actions (such as removal of own blog) is notified for the client with a simple Notification-component. Front-end app utilizes react, axios and prop-types. During development, I've also utilized eslint and cypress. This app uses client-side session management.
 
 <!--
 **ErikHusgafvel/ErikHusgafvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
