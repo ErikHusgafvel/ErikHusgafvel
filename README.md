@@ -28,7 +28,8 @@ Front- and backend solutions for an app that allows users to create and remove o
 ### 🧠 [Redux frontend app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa6/redux-anecdotes) 🧠
 Simple front-end service for creating, updating and displaying anecdotes. The focus is on the front-end storage, which is built with Redux reducers instead of React's states. Specifically, the app uses Provider (react-redux store), configureStore (@reduxjs/toolkit) and createSlice (@reduxjs/toolkit)
 - Key-words: react, react-redux, redux-thunk, reduxjs, axios, jest
-
+  
+Certificates of completion:
 <p align="center">
    <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-fullstack_0-7.png" alt="Basic course certificate" width="23%"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-graphql.png" alt="GraphQL certificate" width="23%"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-typescript.png" alt="Typescript certificate" width="23%"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-psql.png" alt="Postgres certificate" width="23%"/>
 </p>
