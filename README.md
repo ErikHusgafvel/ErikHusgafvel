@@ -4,7 +4,7 @@
 
 I've been working on learning Full Stack Development skills and that's what this profile and its repositories are all about
 
-My learning is tightly tied to the course [Full Stack Open](https://fullstackopen.com/en/about) offered by the courtesy of the University of Helsinki. During the course, I've had hands-on experience of building modern single-page apps using React, Node.js, GraphQL, PostgreSQL, TypeScript, Redux, and MongoDB. The most notable repositories are listed below 🚀
+My learning is tightly tied to [Full Stack Open](https://fullstackopen.com/en/about) course, courtesy of the University of Helsinki. During the course, I've had hands-on experience of building modern single-page apps using React, Node.js, GraphQL, PostgreSQL, TypeScript, Redux, and MongoDB. The most notable repositories are listed below 🚀
 
 1) [Blog-app backend](https://github.com/ErikHusgafvel/osa4_blogilista). With Blog-app backend, client can create user profile(s), ask all user profiles, login to a profile, create blog posts, delete posts, increase likes for a post, ask information about all and/or a specific post. This app uses client-side session management and some actions are restricted to a logged profile. Utilized technologies: MongoDB, Express, jsonwebtoken, bcrypt, lodash, express-async-errors, cors. During development, I've also utilized eslint, nodemon, jest, supertest
 
