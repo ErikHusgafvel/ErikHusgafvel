@@ -34,7 +34,7 @@ Front- and backend solutions with emphasis on utilizing GraphQL. With the app, u
    - Key-words: postgres, sequelize, express, bcrypt, express-session, connect-session-sequelize, cross-env, umzug, uuid, nodemon
 
 <p align="center">
-   <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-fullstack_0-7.png" alt="Basic course certificate" width="22%"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-graphql.png" alt="GraphQL certificate" width="22%"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-typescript.png" alt="Typescript certificate" width="22%"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-psql.png" alt="Postgres certificate" width="22%"/>
+   <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-fullstack_0-7.png" alt="Basic course certificate" width="24%"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-graphql.png" alt="GraphQL certificate" width="24%"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-typescript.png" alt="Typescript certificate" width="24%"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-psql.png" alt="Postgres certificate" width="24%"/>
 </p>
 <!--
 **ErikHusgafvel/ErikHusgafvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
