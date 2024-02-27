@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔥 You just landed on the best GitHub profile ever - warmly welcome! 🔥
+You just landed on the best GitHub profile ever - warmly welcome! 🔥
 
 I've been working on learning Full Stack Development skills and that's what this profile and its repositories are all about
 
