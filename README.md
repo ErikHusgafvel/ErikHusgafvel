@@ -10,7 +10,8 @@ My learning of FSD is tightly tied to the course [Full Stack Open](https://fulls
 
 2) [Blog-app frontend](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa5/bloglist-frontend). The Blog-app frontend displays blogs in the client-side, handles login and logout actions, let's a user create new blogs, give a like for a blog and remove own blogs. Successful actions (such as removal of own blog) is notified for the client with a simple Notification-component. Utilized technologies: react and axios. During development, I've also utilized eslint and cypress. This app uses client-side session management.
 
-3) [Redux frontend app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa6/redux-anecdotes). Simple front-end service for creating, updating and displaying anecdotes. The focus is on the front-end storage, which is built with Redux reducers instead of React's states. Specifically, the app uses Provider (react-redux store), configureStore (@reduxjs/toolkit) and createSlice (@reduxjs/toolkit)
+### 3. [Redux frontend app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa6/redux-anecdotes)
+Simple front-end service for creating, updating and displaying anecdotes. The focus is on the front-end storage, which is built with Redux reducers instead of React's states. Specifically, the app uses Provider (react-redux store), configureStore (@reduxjs/toolkit) and createSlice (@reduxjs/toolkit)
 
 ### 4. [Full stack Blog-app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa7/blogapp)
 Front- and backend solutions for an app that allows users to create and remove own Blog-instances, and comment and like own and others' Blog-instances. Some of the actions require users to be logged in, some actions are restricted to the owner of the Blog-instance. Application relies on client-side session management.
