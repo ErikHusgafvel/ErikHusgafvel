@@ -12,9 +12,10 @@ My learning of FSD is tightly tied to the course [Full Stack Open](https://fulls
 
 3) [Redux frontend app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa6/redux-anecdotes). Simple front-end service for creating, updating and displaying anecdotes. The focus is on the front-end storage, which is built with Redux reducers instead of React's states. Specifically, the app uses Provider (react-redux store), configureStore (@reduxjs/toolkit) and createSlice (@reduxjs/toolkit)
 
-4) [Full stack Blog-app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa7/blogapp). Front- and backend solutions for an app that let's users to create and remove own Blog-instances, comment and like own and others' Blog-instances. Some of the actions require users to be logged in, some actions are restricted to the owner of the Blog-instance. Application relies on client-side session management.
-   - Front-end solution is a single-page app created with react. It utilizes react-router in managing smooth transitions between URLs. Front-end utilizes redux as a state container solution. Front-end experience is enhanced with Material-UI. Key-words: react, react-redux, react-router, axios, cypress, eslint, prettier, lodash, material-ui
-   - Back-end solution utilizes node.js runtime environment and express-service. Database solution utilized is a document-oriented MongoDB. Key-words: node.js, express, mongodb, mongoose, jsonwebtoken, bcrypt, nodemon, eslint, jest, supertest
+### 4. [Full stack Blog-app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa7/blogapp)
+Front- and backend solutions for an app that let's users to create and remove own Blog-instances, comment and like own and others' Blog-instances. Some of the actions require users to be logged in, some actions are restricted to the owner of the Blog-instance. Application relies on client-side session management.
+   - Front-end key-words: react, react-redux, react-router, axios, cypress, eslint, prettier, lodash, material-ui
+   - Back-end key-words: node.js, express, mongodb, mongoose, jsonwebtoken, bcrypt, nodemon, eslint, jest, supertest
 
 ### 5. [GraphQL Full stack Books and Authors -app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa8/kirjat-ja-kirjailijat)
 Front- and backend solutions with emphasis on utilizing GraphQL. With the app, user can examine authors and books saved in the database, login, and add books to store. Application relies on client-side session management.
