@@ -18,8 +18,8 @@ My learning of FSD is tightly tied to the course [Full Stack Open](https://fulls
 
 ### 5. [GraphQL Full stack Books and Authors -app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa8/kirjat-ja-kirjailijat).
 Front- and backend solutions with emphasis on utilizing GraphQL. With the app, user can examine authors and books saved in the database, login, and add books to store. Application relies on client-side session management.
-   - Back-end solution utilizes node.js runtime environment and Apollo Server. Database solution utilized is a document-oriented MongoDB. Key-words: node.js, graphql, apollo server, mongodb, mongoose, jsonwebtoken, nodemon
-   - Front-end solution is a single-page app created with react. It utilizes Apollo Client to communicate with the backend. Key-words: graphql, react, apollo client, eslint
+   - Back-end key-words: node.js, graphql, apollo server, mongodb, mongoose, jsonwebtoken, nodemon
+   - Front-end key-words: graphql, react, apollo client, eslint
 
 ### 6. [Typescript Full stack Patientor-app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa9/patientor)
    Front- and backend solutions for creating and displaying patient information. The app lists patients and by clicking the name, one can examine patient information in more detail. One can also create new patients through a form. The emphasis has been in learning typescript both in front- and backend. Types, interfaces, interface extensions and enums are used both in front- and backend. Backend utilizes type narrowing for proofing input data.
