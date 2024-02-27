@@ -21,10 +21,11 @@ My learning of FSD is tightly tied to the course [Full Stack Open](https://fulls
    - Front-end solution is a single-page app created with react. It utilizes Apollo Client to communicate with the backend. Key-words: graphql, react, apollo client, eslint
 
 6) [Typescript Full stack Patientor-app](https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/tree/master/osa9/patientor). Front- and backend solutions for creating and displaying patient information. The app lists patients and by clicking the name, one can examine patient information in more detail. One can also create new patients through a form. The emphasis has been in learning typescript both in front- and backend. Types, interfaces, interface extensions and enums are used both in front- and backend. Backend utilizes type narrowing for proofing input data.
-   - Front-end key-words: typescript, react, vite, react-router, axios, eslint, material-ui
-   - Back-end key-words: typescript, ts-node-dev, express, eslint, uuid
+   - #### Front-end key-words: typescript, react, vite, react-router, axios, eslint, material-ui
+   - #### Back-end key-words: typescript, ts-node-dev, express, eslint, uuid
 
-7) [PostgreSQL backend for Blog-app](https://github.com/ErikHusgafvel/osa13_blogisovelluksen_backend_psql). Postgres database with Fly.io and Sequelize. The app utilizes server-side session management (leveraging express-session and connect-session-sequelize libraries). Changes to the database have been introduced through migrations. The app handles errors quite extensively and uses express-async-errors under the hood. The app supports
+7) ## [PostgreSQL backend for Blog-app](https://github.com/ErikHusgafvel/osa13_blogisovelluksen_backend_psql)
+   Postgres database with Fly.io and Sequelize. The app utilizes server-side session management (leveraging express-session and connect-session-sequelize libraries). Changes to the database have been introduced through migrations. The app handles errors quite extensively and uses express-async-errors under the hood. The app supports
    - #### Key-words: postgres, sequelize, express, bcrypt, express-session, connect-session-sequelize, cross-env, umzug, uuid, nodemon
 <!--
 **ErikHusgafvel/ErikHusgafvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
