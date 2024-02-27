@@ -33,7 +33,9 @@ Front- and backend solutions with emphasis on utilizing GraphQL. With the app, u
    Postgres database with Fly.io and Sequelize. The app utilizes server-side session management (leveraging express-session and connect-session-sequelize libraries). Changes to the database have been introduced through migrations. The app handles errors quite extensively and uses express-async-errors under the hood. The app supports
    - Key-words: postgres, sequelize, express, bcrypt, express-session, connect-session-sequelize, cross-env, umzug, uuid, nodemon
 
-<img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-fullstack_0-7.png" alt="Basic course certificate" width="200"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-graphql.png" alt="GraphQL certificate" width="200"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-typescript.png" alt="Typescript certificate" width="200"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-psql.png" alt="Postgres certificate" width="200"/>
+<p align="center">
+   <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-fullstack_0-7.png" alt="Basic course certificate" width="200"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-graphql.png" alt="GraphQL certificate" width="200"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-typescript.png" alt="Typescript certificate" width="200"/> <img src="https://github.com/ErikHusgafvel/HY-MOOC-Full-stack-development/blob/master/certificate-psql.png" alt="Postgres certificate" width="200"/>
+</p>
 <!--
 **ErikHusgafvel/ErikHusgafvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
