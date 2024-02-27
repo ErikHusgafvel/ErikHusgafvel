@@ -27,7 +27,7 @@ My learning of FSD is tightly tied to the course [Full Stack Open](https://fulls
 
 ### 7.  [PostgreSQL backend for Blog-app](https://github.com/ErikHusgafvel/osa13_blogisovelluksen_backend_psql)
    Postgres database with Fly.io and Sequelize. The app utilizes server-side session management (leveraging express-session and connect-session-sequelize libraries). Changes to the database have been introduced through migrations. The app handles errors quite extensively and uses express-async-errors under the hood. The app supports
-   - #### Key-words: postgres, sequelize, express, bcrypt, express-session, connect-session-sequelize, cross-env, umzug, uuid, nodemon
+   - Key-words: postgres, sequelize, express, bcrypt, express-session, connect-session-sequelize, cross-env, umzug, uuid, nodemon
 <!--
 **ErikHusgafvel/ErikHusgafvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
