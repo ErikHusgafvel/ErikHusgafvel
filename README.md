@@ -2,7 +2,7 @@
 
 You just landed on the best GitHub profile ever - warmly welcome! 🔥
 
-I've been working on learning Full Stack Development skills and that's what this profile and its repositories are all about 🚀
+I've been working on learning Full Stack Development and that's what this profile and its repositories are all about 🚀
 
 My learning journey is closely tied to the [Full Stack Open](https://fullstackopen.com/en/about) course, courtesy of University of Helsinki. Throughout the course, I've gained hands-on experience on building modern single-page apps using React, Node.js, PostgreSQL, TypeScript, GraphQL, Redux, and MongoDB. The most notable repositories are listed below 
 
